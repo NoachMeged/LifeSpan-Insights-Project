@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <th>Africa Dashboard</th>
-    <th>Oceania Dashboard</th>
     <th>Life Expectancy Dashboard</th>
+    <th>Oceania Dashboard</th>
+    <th>Africa Dashboard</th>
   </tr>
   <tr>
     <td>
