@@ -101,9 +101,7 @@ Smoking decreased, but obesity and alcohol consumption rose in certain regions.
 
 Africa shows major improvements, Central Africa still lags, and Oceania has high obesity prevalence.
 
-# Dashboard Project
-
-Dit project bevat dashboards voor Africa, Oceania en Life Expectancy.
+# Dashboard Project Screenshots
 
 <table>
   <tr>
