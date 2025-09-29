@@ -103,9 +103,7 @@ Africa shows major improvements, Central Africa still lags, and Oceania has high
 
 # Dashboard Project
 
-Dit project bevat dashboards voor drie case studies: Africa, Oceania en Life Expectancy.
-
----
+Dit project bevat dashboards voor Africa, Oceania en Life Expectancy.
 
 <table>
   <tr>
@@ -115,21 +113,19 @@ Dit project bevat dashboards voor drie case studies: Africa, Oceania en Life Exp
   </tr>
   <tr>
     <td>
-      <img src="images/africa_dashboard.png" width="250"><br>
-      <img src="images/africa_dashboard1.png" width="120">
-      <img src="images/africa_dashboard2.png" width="120">
+      <img src="images/Africa_Dashboard.png" width="250"><br>
+      <img src="images/Africa_Dashboard1.png" width="120">
+      <img src="images/Africa_Dashboard2.png" width="120">
     </td>
     <td>
-      <img src="images/oceania_dashboard.png" width="250"><br>
-      <img src="images/oceania_dashboard1.png" width="120">
-      <img src="images/oceania_dashboard2.png" width="120">
+      <img src="images/Oceania_Dashboard.png" width="250"><br>
+      <img src="images/Oceania_Dashboard1.png" width="120">
+      <img src="images/Oceania_Dashboard2.png" width="120">
     </td>
     <td>
-      <img src="images/life_expectancy_dashboard.png" width="250"><br>
-      <img src="images/life_expectancy_dashboard1.png" width="120">
-      <img src="images/life_expectancy_dashboard2.png" width="120">
+      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
+      <img src="images/Life_expectancy_Dashboard1.png" width="120">
+      <img src="images/Life_expectancy_Dashboard2.png" width="120">
     </td>
   </tr>
 </table>
-
-> Tip: Pas de `width`-waarden aan als je de afbeeldingen groter of kleiner wilt tonen. Zorg dat alle paden overeenkomen met je `images` map.
