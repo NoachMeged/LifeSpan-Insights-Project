@@ -1,6 +1,6 @@
-🌍 Life Expectancy & Lifestyle Factors: Global Analysis
 
-# Dashboard Project Screenshots
+
+# 🌍 Life Expectancy & Lifestyle Factors: Global Analysis
 
 <table>
   <tr>
