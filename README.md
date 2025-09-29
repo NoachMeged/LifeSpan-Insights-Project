@@ -11,18 +11,12 @@
   <tr>
     <td>
       <img src="images/Africa_Dashboard.png" width="250"><br>
-      <img src="images/Africa_Dashboard1.png" width="120">
-      <img src="images/Africa_Dashboard2.png" width="120">
     </td>
     <td>
       <img src="images/Oceania_Dashboard.png" width="250"><br>
-      <img src="images/Oceania_Dashboard1.png" width="120">
-      <img src="images/Oceania_Dashboard2.png" width="120">
     </td>
     <td>
       <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
-      <img src="images/Life_expectancy_Dashboard1.png" width="120">
-      <img src="images/Life_expectancy_Dashboard2.png" width="120">
     </td>
   </tr>
 </table>
