@@ -1,4 +1,35 @@
 🌍 Life Expectancy & Lifestyle Factors: Global Analysis
+
+# Dashboard Project Screenshots
+
+<table>
+  <tr>
+    <th>Africa Dashboard</th>
+    <th>Oceania Dashboard</th>
+    <th>Life Expectancy Dashboard</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/Africa_Dashboard.png" width="250"><br>
+      <img src="images/Africa_Dashboard1.png" width="120">
+      <img src="images/Africa_Dashboard2.png" width="120">
+    </td>
+    <td>
+      <img src="images/Oceania_Dashboard.png" width="250"><br>
+      <img src="images/Oceania_Dashboard1.png" width="120">
+      <img src="images/Oceania_Dashboard2.png" width="120">
+    </td>
+    <td>
+      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
+      <img src="images/Life_expectancy_Dashboard1.png" width="120">
+      <img src="images/Life_expectancy_Dashboard2.png" width="120">
+    </td>
+  </tr>
+</table>
+
+
+
+
 📘 Project Overview
 
 This project was conducted as a final project for Ironhack to explore how lifestyle factors—including diet, physical activity, smoking, and alcohol consumption—relate to life expectancy across countries and regions from 2000 to 2025.
@@ -101,29 +132,3 @@ Smoking decreased, but obesity and alcohol consumption rose in certain regions.
 
 Africa shows major improvements, Central Africa still lags, and Oceania has high obesity prevalence.
 
-# Dashboard Project Screenshots
-
-<table>
-  <tr>
-    <th>Africa Dashboard</th>
-    <th>Oceania Dashboard</th>
-    <th>Life Expectancy Dashboard</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="images/Africa_Dashboard.png" width="250"><br>
-      <img src="images/Africa_Dashboard1.png" width="120">
-      <img src="images/Africa_Dashboard2.png" width="120">
-    </td>
-    <td>
-      <img src="images/Oceania_Dashboard.png" width="250"><br>
-      <img src="images/Oceania_Dashboard1.png" width="120">
-      <img src="images/Oceania_Dashboard2.png" width="120">
-    </td>
-    <td>
-      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
-      <img src="images/Life_expectancy_Dashboard1.png" width="120">
-      <img src="images/Life_expectancy_Dashboard2.png" width="120">
-    </td>
-  </tr>
-</table>
