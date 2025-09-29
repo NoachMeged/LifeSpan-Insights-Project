@@ -100,3 +100,32 @@ Dietary intake, caloric intake, and economic growth contributed to these improve
 Smoking decreased, but obesity and alcohol consumption rose in certain regions.
 
 Africa shows major improvements, Central Africa still lags, and Oceania has high obesity prevalence.
+
+# Dashboard Project
+
+Dit project bevat dashboards voor Africa, Oceania en Life Expectancy.
+
+<table>
+  <tr>
+    <th>Africa Dashboard</th>
+    <th>Oceania Dashboard</th>
+    <th>Life Expectancy Dashboard</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/Africa_Dashboard.png" width="250"><br>
+      <img src="images/Africa_Dashboard1.png" width="120">
+      <img src="images/Africa_Dashboard2.png" width="120">
+    </td>
+    <td>
+      <img src="images/Oceania_Dashboard.png" width="250"><br>
+      <img src="images/Oceania_Dashboard1.png" width="120">
+      <img src="images/Oceania_Dashboard2.png" width="120">
+    </td>
+    <td>
+      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
+      <img src="images/Life_expectancy_Dashboard1.png" width="120">
+      <img src="images/Life_expectancy_Dashboard2.png" width="120">
+    </td>
+  </tr>
+</table>
