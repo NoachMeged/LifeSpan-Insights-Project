@@ -10,13 +10,13 @@
   </tr>
   <tr>
     <td>
+      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
+    </td>
+    <td>
       <img src="images/Africa_Dashboard.png" width="250"><br>
     </td>
     <td>
       <img src="images/Oceania_Dashboard.png" width="250"><br>
-    </td>
-    <td>
-      <img src="images/Life_expectancy_Dashboard.png" width="250"><br>
     </td>
   </tr>
 </table>
