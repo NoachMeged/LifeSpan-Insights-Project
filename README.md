@@ -65,8 +65,6 @@ Visualization: Used Python (Pandas, Matplotlib, Seaborn) and Tableau for scatter
 
 **Key Global Trends (2000–2025)**
 
-**Overall Improvements:**
-
 Life expectancy increased in every country.
 
 Vegetable and fruit consumption, daily calories, obesity percentages, and GDP per capita increased.
